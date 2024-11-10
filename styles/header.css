@@ -105,5 +105,9 @@
     .cabeçalho__menu-hamburguer {
         display: none;
     }
+
+    .opções__botao:checked ~ .lista-menu {
+        display: block;
+    }
 }
 
