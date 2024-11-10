@@ -83,5 +83,9 @@
     .opções {
         display: flex;
     }
+
+    .opções__item {
+        padding: o 1em;
+    }
 }
 
