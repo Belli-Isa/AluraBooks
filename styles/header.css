@@ -110,5 +110,9 @@
         display: block;
         width: auto;
     }
+
+    .opções__botao {
+        display: none;
+    }
 }
 
