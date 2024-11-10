@@ -63,6 +63,10 @@
     display: none;
 }
 
+.opções {
+    display: none;
+}
+
 
 @media screen and (min-width: 1024px) {
     
@@ -91,6 +95,7 @@
 
     .opções__link{
         text-decoration: none;
+        color: var(--preto)
     }
 }
 
