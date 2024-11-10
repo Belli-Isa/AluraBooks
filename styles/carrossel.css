@@ -95,6 +95,11 @@
         display: block;
         top: 60%
     }
+
+    .card {
+        width: 40%;
+        margin: 2em auto;
+    }
     
 }
 
