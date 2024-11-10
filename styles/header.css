@@ -31,7 +31,7 @@
     width: 60vw;
 }
 
-.container__botao:checked ~ .lista-menu {
+.container__botao:checked~.lista-menu {
     display: block;
 }
 
@@ -106,7 +106,7 @@
         display: none;
     }
 
-    .opções__botao:checked ~ .lista-menu {
+    .opções__botao:checked~.lista-menu {
         display: block;
         width: auto;
     }
