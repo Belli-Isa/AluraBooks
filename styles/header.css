@@ -96,6 +96,7 @@
     .opções__link{
         text-decoration: none;
         color: var(--preto)
+        justify-content: space-between;
     }
 
     .container__imagem-transparente {
