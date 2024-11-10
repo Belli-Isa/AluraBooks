@@ -114,5 +114,9 @@
     .opções__botao {
         display: none;
     }
+
+    .opções__botao {
+        display: none
+    }
 }
 
