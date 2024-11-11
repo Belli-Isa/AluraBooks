@@ -15,6 +15,13 @@ hr {
     .lista.rodapé__item {
         display: flex;
         aligh-items: center;
+        margin: 0.7em;
+    }
+
+    .lista-rodapé__link {
+        color: var(--cinza);
+        text-decoraation: none;
+        margin-left: 0.7em;
     }
     
 }
