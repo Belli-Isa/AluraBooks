@@ -95,7 +95,8 @@
 
     .opções__link{
         text-decoration: none;
-        color: var(--preto)
+        color: var(--preto);
+        aligh-items: center;
     }
 
     .container__imagem-transparente {
@@ -121,5 +122,16 @@
 }
 
 @media screen and (min-width: 1728px) {
+    
+    .container__link {
+        display: flex;
+        aligh-items: center;
+        text-decoration: none;
+        color: var(--preto);
+    }
+
+    .cabeçalho {
+        padding: 0 2em;
+    }
     
 }
