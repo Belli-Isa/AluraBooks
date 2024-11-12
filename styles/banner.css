@@ -48,3 +48,15 @@
         background-position: 6em;
     }
 }
+
+@media screeen and (min-width: 1728px) {
+    .banner__pesquisa {
+        
+    }
+}
+
+
+
+
+
+
